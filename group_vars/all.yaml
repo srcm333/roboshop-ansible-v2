@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb.devpreactice.online
+REDIS_HOST: redis.devpreactice.online
+MYSQL_HOST: mysql.devpreactice.online 
+RABBITMQ_HOST: rabbitmq.devpreactice.online 
+CATALOGUE_HOST: catalogue.devpreactice.online
+USER_HOST: user.devpreactice.online
+CART_HOST: cart.devpreactice.online
+SHIPPING_HOST: shipping.devpreactice.online
+PAYMENT_HOST: payment.devpreactice.online
