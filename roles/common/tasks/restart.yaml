@@ -3,8 +3,8 @@
     name: "{{ component }}"
     masked: no
   
-- name: enable and restart
-  service:
+- name: enable and restart service
+  systemd:
     name: "{{ component }}"
     enabled: yes
     state: restarted
